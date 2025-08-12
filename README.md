@@ -70,14 +70,7 @@ To start, I looked at the public images and began to make vectors and designs wi
 
 6. Finally, I saved the cpu state into local storage to persist it after refresh.
 
-## Contact / Contacto
 
-You can contact me:
-- Mail -> jprioses@outlook.com
-- Linkedin -> https://www.linkedin.com/in/jprioses/
-
-You can see my porftolio:
-- https://jprioses.github.io/Personal-React-Portfolio/
 
 ## Acknowledgements / Agradecimientos
 
